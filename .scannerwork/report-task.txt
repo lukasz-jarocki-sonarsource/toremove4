@@ -1,0 +1,6 @@
+projectKey=lukasz-jarocki-sonarsource_toremove4
+serverUrl=http://localhost/sonarqube
+serverVersion=8.8-SNAPSHOT
+dashboardUrl=http://localhost/sonarqube/dashboard?id=lukasz-jarocki-sonarsource_toremove4
+ceTaskId=AXiDIaZ8GNb5FQoyUHFx
+ceTaskUrl=http://localhost/sonarqube/api/ce/task?id=AXiDIaZ8GNb5FQoyUHFx
